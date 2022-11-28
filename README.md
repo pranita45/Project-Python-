@@ -1,2 +1,3 @@
 # Project-Python-
-Major Project
+ 
+Project Title :- Computing Color Tranform WithApplication To Image Editing. 
